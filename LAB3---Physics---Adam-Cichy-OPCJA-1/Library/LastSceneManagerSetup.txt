@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/(Scenes)/Main.unity
+- path: Assets/TangyTextures/Scenes/DisplayScene.unity
   isLoaded: 1
   isActive: 1
